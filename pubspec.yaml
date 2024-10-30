@@ -1,0 +1,55 @@
+name: your_app_name
+description: A new Flutter project.
+
+environment:
+  sdk: ">=3.5.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2  # Use a compatible version
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+      - assets/images/splash_screen1.webp
+      - assets/images/splash_screen2.jpg
+      - assets/images/splash_screen3.jpg
+      -  assets/images/destination1.jpg
+      - assets/images/destination2.jpg
+      - assets/images/destination3.jpg
+      - assets/images/destination4.jpg
+      - assets/images/destination5.jpg
+      - assets/images/destination6.jpg
+      - assets/images/destination7.jpg
+      - assets/images/destination8.jpg
+      - assets/images/destination9.jpg
+      - assets/images/destination10.jpg
+      - assets/images/destination11.jpg
+      - assets/images/destination12.jpg
+      - assets/images/destination13.jpg
+      - assets/images/destination14.jpg
+      - assets/images/destination15.jpg
+      - assets/images/destination16.jpg
+      - assets/images/destination17.jpg
+      - assets/images/destination18.jpg
+      - assets/images/destination19.jpg
+      - assets/images/destination20.jpg
+      - assets/images/kenya_adventure_group.jpg
+      - assets/images/tanzania_safari_group.jpg
+      - assets/images/uganda_wildlife_group.jpg
+      - assets/images/burundi_cultural_group.jpg
+      - assets/images/rwanda_explorer_group.jpg
+      - assets/images/east_african_beach_lovers.jpg
+
+
+
+
+
+
+
